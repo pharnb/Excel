@@ -1,1 +1,1 @@
-Homework files for VBA Scripting assignment
+Homework files for Excel assignment
