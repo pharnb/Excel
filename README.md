@@ -1,3 +1,1 @@
-# test
-demo for class
-testtesttest
+Homework files for VBA Scripting assignment
